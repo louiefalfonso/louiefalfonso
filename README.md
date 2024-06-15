@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9/giphy.gif" width="100"/>
 </div>
-<iframe src="https://giphy.com/embed/0hfEgeRNgwhZeK3kPq" width="480" height="480"></iframe>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
