@@ -1,3 +1,12 @@
+I'm a passionate Frontend Developer with a focus on building beautiful and user-friendly web experiences.
+
+What I Do:
+
+- Craft responsive and performant web interfaces using HTML, CSS (including preprocessors), and JavaScript (ES6+).
+- Build interactive experiences with popular frameworks like React, Angular, or Vue.js.
+- Ensure websites are accessible and function seamlessly across all devices.
+- Write clean and maintainable code following best practices.
+
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
