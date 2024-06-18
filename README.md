@@ -3,7 +3,7 @@
 
 What I can do:
 - Design and develop user interfaces using HTML, CSS (including preprocessors), and JavaScript (including modern ES6+ syntax).
-- Build interactive and performant web applications using popular frameworks like React, Angular, or Vue.js.
+- Build interactive and performant web applications using popular frameworks like React & NextJS.
 - Ensure websites are responsive and display well across all devices (desktop, tablet, mobile).
 - Implement best practices for accessibility and browser compatibility.
 - Leverage version control (Git) for collaborative development.
