@@ -3,7 +3,7 @@
 <h4>What I can do:</h4>
 <ul>
   <li>Design and develop user interfaces using HTML, CSS (including preprocessors), and JavaScript (including modern ES6+ syntax).</li>
-  <li>Build interactive and performant web applications using popular frameworks like React & NextJS.</li>
+  <li>Build interactive and perform web applications using popular frameworks like React & NextJS.</li>
   <li>Ensure websites are responsive and display well across all devices (desktop, tablet, mobile).</li>
   <li>Implement best practices for accessibility and browser compatibility.</li>
   <li>Leverage version control (Git) for collaborative development.</li>
