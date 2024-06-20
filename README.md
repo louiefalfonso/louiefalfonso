@@ -1,13 +1,13 @@
 <h4>Hi there! I'm Louie!</h4> 
 <p>I'm a passionate frontend developer with a focus on building beautiful, user-friendly, and responsive web experiences.</p>
-
 <h4>What I can do:</h4>
-- Design and develop user interfaces using HTML, CSS (including preprocessors), and JavaScript (including modern ES6+ syntax).
-- Build interactive and performant web applications using popular frameworks like React & NextJS.
-- Ensure websites are responsive and display well across all devices (desktop, tablet, mobile).
-- Implement best practices for accessibility and browser compatibility.
-- Leverage version control (Git) for collaborative development.
-
+<ul>
+  <li>Design and develop user interfaces using HTML, CSS (including preprocessors), and JavaScript (including modern ES6+ syntax).</li>
+  <li>Build interactive and performant web applications using popular frameworks like React & NextJS.</li>
+  <li>Ensure websites are responsive and display well across all devices (desktop, tablet, mobile).</li>
+  <li>Implement best practices for accessibility and browser compatibility.</li>
+  <li>Leverage version control (Git) for collaborative development.</li>
+</ul>
 <h4>My Tech Stack:</h4>
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
